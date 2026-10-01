@@ -1,0 +1,10 @@
+{
+    "name": "gefina",
+    "description": "Sistema de gestão de contas a receber.",
+    "version": "0.0.0",
+    "author": "Matheus Vasconcelos",
+    "type": "module",
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
