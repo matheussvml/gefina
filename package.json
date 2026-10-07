@@ -4,6 +4,9 @@
     "version": "0.0.0",
     "author": "Matheus Vasconcelos",
     "type": "module",
+    "scripts": {
+        "dev":"node --watch ./server"
+    },
     "dependencies": {
         "express": "^5.2.1"
     }
