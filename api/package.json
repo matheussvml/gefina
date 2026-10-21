@@ -1,18 +1,14 @@
 {
-    "name": "gefina",
-    "description": "Sistema de gestão de contas a receber.",
-    "version": "0.0.0",
-    "author": "Alex Bessa",
-    "type": "module",
-    "scripts": {
-        "dev": "node --watch ./server.ts",
-        "check": "tsc"
-    },
-    "dependencies": {
-        "express": "^5.3.0"
-    },
-    "devDependencies": {
-        "@types/express": "^5.0.6",
-        "typescript": "^7.0.2"
-    }
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch ./server.ts",
+    "check": "tsc"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "typescript": "^7.0.2"
+  }
 }
